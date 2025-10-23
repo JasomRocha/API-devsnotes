@@ -1,6 +1,3 @@
-<<<<<<< Updated upstream
-// terminar amanhã...
-=======
 <?php
 require "./config.php";
 /** @var PDO $pdo */
@@ -47,5 +44,3 @@ if ($method === 'put') {
 }
 
 require "./return.php";
->>>>>>> Stashed changes
-
